@@ -14,7 +14,7 @@ My email address is <sherrylyj@outlook.com> and a link to my personal website is
 
 ## About My Mentor
 
-My mentor is [Dr. Daniel Votipka]( https://www.eecs.tufts.edu/~dvotipka/), a Lin Family Assistant Professor at Tufts University, Computer Science Department and the director of the [Tufts Security and Privacy Lab]( https://tsp.cs.tufts.edu/). His research interest focuses on computer security, with an emphasis on the human factors affecting security professionals.    
+My mentor is **Dr. Daniel Votipka**, a Lin Family Assistant Professor at Tufts University, Computer Science Department and the director of the [Tufts Security and Privacy Lab]( https://tsp.cs.tufts.edu/). His research interest focuses on computer security, with an emphasis on the human factors affecting security professionals.    
 Here is a link to his personal website: [Dr. Daniel Votipka]( https://www.eecs.tufts.edu/~dvotipka/).  
 
 ## About My Project

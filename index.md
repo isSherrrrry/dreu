@@ -22,7 +22,8 @@ Here is a link to his personal website: [Dr. Daniel Votipka]( https://www.eecs.t
 During the summer, I am working on the **JustGoogleIt** project with James Mattei, a graduate student in the lab. The project aims to investigate students’ behaviors in searching (googling) Computer Security questions. We want to collect participants' data in terms of the sites they visited, the time spent on each site, percentage of each site viewed, and the content of each site. We planned to accomplish the following during the summer: 
 1. Develop a Google Chrome extension that can be used to monitor browser activities (sites they visited, the time spent on each site, and percentage of each site viewed);
 2. Develop a Web Scraper to scrape the information on visited sites;
-3. Run a sample experiment with Tufts CS-Security summer school students; the tool is expected to be used in a large experiment in the fall.  
+3. Run a sample experiment with Tufts CS-Security summer school students; the tool is expected to be used in a large experiment in the fall.     
+
 [My Final Report-Not Avaliable Yet](files/finalreport.pdf)
 
 ## My Blog

@@ -10,7 +10,7 @@ title: Summer 2020 DREU Project Site
 
 Hi there! My name is **Yijun Liu**, and I am currently a rising junior at **Emory University** double majoring in **Math/CS and Sociology**. I am expecting to graduate in May 2024 from Emory College at Emory University.   
 This summer, I participated in the **DREU program at Tufts University**, Computer Science Department in person. Boston is a great and historical place to live. I live right next to Tufts with 2 Tufts graduate students. After the program, I plan to go back to Virginia to visit my high school and my relatives, as well as attending the KDD 2022 conference as a student assistant in the Web team.    
-My email address is <sherrylyj@outlook.com> and a link to my personal website is [liuyijun.com](liuyijun.com).  
+My email address is <sherrylyj@outlook.com> and a link to my personal website is [liuyijun.com](www.liuyijun.com).  
 
 ## About My Mentor
 

@@ -24,7 +24,7 @@ During the summer, I am working on the **JustGoogleIt** project with James Matte
 2. Develop a Web Scraper to scrape the information on visited sites;
 3. Run a sample experiment with Tufts CS-Security summer school students; the tool is expected to be used in a large experiment in the fall.     
 
-[My Final Report-Not Avaliable Yet](files/finalreport.pdf)
+[My Final Report](files/finalreport.pdf)
 
 ## My Blog
 
